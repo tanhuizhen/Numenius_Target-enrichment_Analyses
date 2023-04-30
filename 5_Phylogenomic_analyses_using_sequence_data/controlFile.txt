@@ -1,0 +1,16 @@
+allGeneTrees.tree
+0
+-1
+10
+524 10
+N_tahitiensis 2 BT1 BT2
+N_arquata 14 EA1 EA2 EA3 EA5 EA8 EA9 EO1 EO2 EO7 ES3 ES5 ES6 ES8 SB8
+N_borealis 4 EK1 EK2 EK3 EK4
+N_madagascariensis 3 FE2 FE4 FE6
+N_americanus 4 LA2 LA3 LP1 LP2
+N_minutus 2 LT1 LT2
+T_totanus 1 OG1
+N_tenuirostris 5 SB1 SB2 SB4 SB5 SB6
+N_phaeopus 22 WA10 WA14 WA16 WA19 WA1 WA20 WA2 WA5 WA6 WA7 WA8 WA9 WC1 WC4 WD1 WD4 WP17 WP27 WP5 WP7 WV11 WV14
+N_hudsonicus 5 WF2 WF3 WH2 WH4 WH5
+0
