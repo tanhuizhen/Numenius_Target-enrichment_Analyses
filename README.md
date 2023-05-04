@@ -6,5 +6,3 @@ Megafaunal extinctions—not climate change—may explain Holocene genetic diver
 Folder names correspond to the sections in 'Materials and methods'.
 
 Unless otherwise stated, codes were ran in the terminal of Ubuntu 18.04.6 LTS or [Fuzzywuzzy version?].
-
-![alt text](https://www.dropbox.com/s/fcz2asnilvgv7ac/Fig1-multipanel-v6.png)
