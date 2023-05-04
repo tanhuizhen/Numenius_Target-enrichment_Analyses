@@ -7,4 +7,4 @@ Folder names correspond to the sections in 'Materials and methods'.
 
 Unless otherwise stated, codes were ran in the terminal of Ubuntu 18.04.6 LTS or [Fuzzywuzzy version?].
 
-![Alt text](https://www.dropbox.com/s/fcz2asnilvgv7ac/Fig1-multipanel-v6.png?dl=0 "Optional title")
+![Alt text](https://www.dropbox.com/s/fcz2asnilvgv7ac/Fig1-multipanel-v6.png "Optional title")
